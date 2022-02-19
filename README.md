@@ -32,6 +32,8 @@ Custom badge via Shields.io: [https://shields.io/category/build](https://shields
 <p align = "center">
 <a title="Coverage Status" target="_blank" href="https://coveralls.io/github/elliotxx/gulu?branch=master"><img src="https://img.shields.io/coveralls/github/elliotxx/gulu/master"></a>
 <a title="GitHub release" target="_blank" href="https://github.com/elliotxx/gulu/releases"><img src="https://img.shields.io/github/release/elliotxx/gulu.svg"></a>
+<a title="GitHub download" target="_blank" href="https://github.com/elliotxx/gulu/releases"><img src="https://img.shields.io/github/downloads/elliotxx/gulu/total.svg"></a>
+<a title="GitHub Action" target="_blank" href="https://github.com/elliotxx/gulu/actions/workflows/code-check.yaml"><img src="https://github.com/elliotxx/gulu/actions/workflows/code-check.yaml/badge.svg"></a>
 </p>
 
 <details>
@@ -40,6 +42,8 @@ Custom badge via Shields.io: [https://shields.io/category/build](https://shields
 ```html
 <a title="Coverage Status" target="_blank" href="https://coveralls.io/github/elliotxx/gulu?branch=master"><img src="https://img.shields.io/coveralls/github/elliotxx/gulu/master"></a>
 <a title="GitHub release" target="_blank" href="https://github.com/elliotxx/gulu/releases"><img src="https://img.shields.io/github/release/elliotxx/gulu.svg"></a>
+<a title="GitHub download" target="_blank" href="https://github.com/elliotxx/gulu/releases"><img src="https://img.shields.io/github/downloads/elliotxx/gulu/total.svg"></a>
+<a title="GitHub Action" target="_blank" href="https://github.com/elliotxx/gulu/actions/workflows/code-check.yaml"><img src="https://github.com/elliotxx/gulu/actions/workflows/code-check.yaml/badge.svg"></a>
 ```
 
 </details>
